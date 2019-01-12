@@ -1,0 +1,27 @@
+{
+  "name": "eat-a-burger",
+  "version": "1.0.0",
+  "description": "Modify a database of burgers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiev15/burger-app.git"
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.6",
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.3"
+  },
+  "homepage": "https://github.com/eddiev15/burger-app#readme",
+  "engines": {
+    "node": "4.7.0"
+  }
+}

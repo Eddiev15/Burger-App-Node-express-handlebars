@@ -1,0 +1,2 @@
+INSERT INTO bn93kgg5r8gm6itf.events (burger_name, devoured)
+VALUES ("Ham and Cheese", true), ("Sausage", false), ("Bacon and Cheese", false), ("Hawaian Special", true), ("Chinese-food Burger", false),("Jack Daniels Burger", true), ("Columbian Burger", false), ("Pizza Burger", true);
